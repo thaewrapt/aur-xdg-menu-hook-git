@@ -1,0 +1,13 @@
+pkgbase = xdg-menu-hook-git
+	pkgdesc = xdg-menu pacman hook, intended for regeneration of lightweight WM menus easily (git version)
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/thaewrapt/xdg-menu-hook
+	arch = any
+	license = GPL
+	depends = archlinux-xdg-menu
+	source = xdg-menu-hook::git+https://github.com/thaewrapt/xdg-menu-hook.git
+	sha256sums = SKIP
+
+pkgname = xdg-menu-hook-git
+
